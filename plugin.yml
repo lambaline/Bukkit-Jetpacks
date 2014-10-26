@@ -1,0 +1,4 @@
+name: Jetpacks
+version: beta1
+main: me.mike.bukkit.jetpack.Main
+description: Wearable jetpacks for players!
